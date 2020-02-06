@@ -1,2 +1,0 @@
-# PersonalWebPage
-Created with CodeSandbox
