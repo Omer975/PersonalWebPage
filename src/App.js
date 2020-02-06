@@ -41,7 +41,7 @@ export default function App() {
           </li>
           <li>
             <a href="https://github.com/Omer975" target="_blank">
-              <i className="fab fa-github" />
+              <i className="fab fa-github-square" />
             </a>
           </li>
         </ul>
